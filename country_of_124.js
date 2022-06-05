@@ -1,5 +1,4 @@
 function solution(n) {
-  const answer = "";
   const hintMap = {
     0: "4",
     1: "1",
